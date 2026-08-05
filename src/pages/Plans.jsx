@@ -52,7 +52,6 @@ const Plans = () => {
   const handleChoosePlan = (planName) => {
     toast({
       title: `Plano ${planName} selecionado!`,
-      description: "🚧 Este recurso ainda não foi implementado, mas não se preocupe! Você pode solicitá-lo no seu próximo prompt! 🚀",
     });
   };
 

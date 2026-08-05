@@ -12,7 +12,7 @@ const Home = () => {
   const handleScheduleClick = () => {
     toast({
       title: "Agendamento de Aula Experimental",
-      description: "🚧 Este recurso ainda não foi implementado, mas não se preocupe! Você pode solicitá-lo no seu próximo prompt! 🚀",
+     
     });
   };
 

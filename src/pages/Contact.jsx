@@ -13,7 +13,7 @@ const Contact = () => {
     e.preventDefault();
     toast({
       title: "Formulário Enviado!",
-      description: "🚧 Este recurso ainda não foi implementado, mas não se preocupe! Você pode solicitá-lo no seu próximo prompt! 🚀",
+    
     });
     e.target.reset();
   };
@@ -21,7 +21,7 @@ const Contact = () => {
   const handleWhatsAppClick = () => {
     toast({
       title: "Abrir WhatsApp",
-      description: "🚧 Este recurso ainda não foi implementado, mas não se preocupe! Você pode solicitá-lo no seu próximo prompt! 🚀",
+    
     });
   };
 
